@@ -5,7 +5,7 @@ Forest Runner is a platformer game made for the needs of a college project.
 <br>During the development of the game, numerical methods were implemented for:
 
 * Linear, rotational movement - RK4 (fourth-order Runge-Kutta) method with the law of conservation of momentum.
-* Collision detection - SAT (Separating Axis Theorem) method
+* Collision detection - SAT (Separating Axis Theorem) method - circle-to-square and square-to-square collision detection
 * Projectile movement - RK4 method for circular objects
 
 In addition to numerical methods, certain algorithms for player animation, map scrolling, level loading, map loading, etc. have also been implemented.
