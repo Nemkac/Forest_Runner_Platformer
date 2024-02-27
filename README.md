@@ -1,4 +1,4 @@
-# Forest_Runner_Platformer
+# Forest Runner Platformer
 
 Forest Runner is a 2D platformer game made entirely in python.
 <br>The game was made mostly using the pygame library, which is integrated into the programming language itself, as well as other libraries for integrating the background music and graphics of the game itself.
